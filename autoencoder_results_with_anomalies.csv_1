@@ -1,0 +1,6 @@
+Cleaned_Text,Cleaned_Explanations,Aspect,Original_Reconstruction_Error,Optimized_Reconstruction_Error,New_Anomaly,Original_MAE,Optimized_MAE,Is_Anomaly
+happens going back ’ stuck empty void darkness forever,empty void darkness,4,0.1274096413723616,0.027666845350811965,False,0.32034462442667716,0.14947141184420298,False
+filled guilt stuck feeling like crap,filled guilt stuck feeling like crap,4,0.16076317953919378,0.053369788671860215,True,0.3680155679987292,0.2208726369853039,True
+got home voice returned kept telling ’ piece shit,piece shit,4,0.14838950403389695,0.026107798323328976,False,0.35141750481962253,0.14218759689428817,False
+survived since shit sexual assault like,sexual assault,1,0.15147872913046684,0.03832620070229343,False,0.3599577247599464,0.17470880910594955,False
+feel like three thing ’ absolutely dumb ugly useless,ugly dumb useless,1,0.13511819289139793,0.02349399167997277,False,0.3382855476838637,0.1381840001531776,False
